@@ -1,0 +1,17 @@
+{
+  "name": "text_to_morse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^16.10.0"
+  }
+}
